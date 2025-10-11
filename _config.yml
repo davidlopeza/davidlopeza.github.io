@@ -1,0 +1,90 @@
+# =========================
+# Basic Site Settings
+# =========================
+title: "David Fernando Lopez"
+name: "David Fernando Lopez Alanis"
+description: "Undergraduate student in Computer Technologies Engineering at Universidad de Monterrey (UDEM). UX/UI designer with experience in web and mobile front-end."
+url: "https://davidlopeza.github.io"
+baseurl: ""  # leave this empty for a user/organization site
+locale: "en-US"
+
+# =========================
+# Author Information
+# =========================
+author:
+  name: "David Fernando Lopez Alanis"
+  avatar: "profile.jpg"
+  bio: "Undergraduate student in Computer Technologies Engineering at Universidad de Monterrey (UDEM). UX/UI designer passionate about human-centered design and front-end development."
+  email: "david.lopeza@udem.edu"
+  links:
+    - label: "GitHub"
+      icon: "fab fa-github"
+      url: "https://github.com/davidlopeza"
+    - label: "LinkedIn"
+      icon: "fab fa-linkedin"
+      url: "https://www.linkedin.com/in/davidlopeza"
+
+# =========================
+# Theme
+# =========================
+theme: "minimal-mistakes-jekyll"
+minimal_mistakes_skin: "default"
+
+# =========================
+# Collections (for portfolio, teaching, etc.)
+# =========================
+collections:
+  portfolio:
+    output: true
+    permalink: /:collection/:path/
+  publications:
+    output: true
+    permalink: /:collection/:path/
+  teaching:
+    output: true
+    permalink: /:collection/:path/
+
+# =========================
+# Defaults
+# =========================
+defaults:
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "single"
+      author_profile: true
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "single"
+      author_profile: true
+
+# =========================
+# Markdown and Output
+# =========================
+markdown: kramdown
+highlighter: rouge
+encoding: "utf-8"
+timezone: "America/Mexico_City"
+
+# =========================
+# Plugins (minimal and GitHub Pages compatible)
+# =========================
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jemoji
+
+# =========================
+# Analytics (optional)
+# =========================
+analytics:
+  provider: false
+
+# =========================
+# Social Preview
+# =========================
+og_image: "profile.jpg"
+og_description: "Personal academic website of David Fernando Lopez Alanis"
