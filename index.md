@@ -19,7 +19,7 @@ Beyond that, I have built mobile applications and websites for academic and coll
 **Universidad de Monterrey (UDEM)**  
 B.S. in Computer Technologies Engineering  
 Monterrey, Mexico  
-(Expected graduation: [Insert your expected year])  
+(Expected graduation: 2026)  
 
 ---
 
