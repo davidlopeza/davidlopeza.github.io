@@ -3,7 +3,21 @@ layout: home
 title: "David Fernando Lopez Alanis"
 ---
 
-# About Me
+<div style="text-align: center; margin-top: 30px;">
+  <img src="images/profile.jpg" alt="David Fernando Lopez" style="width:160px; border-radius:50%; border: 2px solid #ccc; margin-bottom: 15px;">
+  <h1>David Fernando Lopez Alanis</h1>
+  <p><strong>Undergraduate student in Computer Technologies Engineering at Universidad de Monterrey (UDEM)</strong></p>
+  <p>UX/UI designer passionate about human-centered design and front-end development.</p>
+  <p>
+    <a href="mailto:david.lopeza@udem.edu">david.lopeza@udem.edu</a> · 
+    <a href="https://github.com/davidlopeza">GitHub</a> · 
+    <a href="https://www.linkedin.com/in/davidlopeza">LinkedIn</a>
+  </p>
+</div>
+
+---
+
+## About Me
 
 I am an undergraduate student in Computer Technologies Engineering at the Universidad de Monterrey (UDEM).  
 My work focuses on user-centered design, front-end development, and the intersection between technology and human experience.  
@@ -60,11 +74,3 @@ UDEM with students from Africa and China
 
 **Elderly Care Volunteer — Christmas Season**  
 Organized and participated in a holiday event at a nursing home, preparing gifts and activities to bring joy and companionship to the residents.
-
----
-
-## Contact
-
-**Email:** [david.lopeza@udem.edu](mailto:david.lopeza@udem.edu)  
-**LinkedIn:** [linkedin.com/in/davidlopeza](https://www.linkedin.com/in/davidlopeza)  
-**GitHub:** [github.com/davidlopeza](https://github.com/davidlopeza)
