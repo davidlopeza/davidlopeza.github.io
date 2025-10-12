@@ -11,11 +11,7 @@ locale: "en-US"
 # =========================
 # Author Information
 # =========================
-author:
-  name: "David Fernando Lopez Alanis"
-  email: "david.lopeza@udem.edu"
-  github: "https://github.com/davidlopeza"
-  linkedin: "https://www.linkedin.com/in/davidlopeza"
+
 
 # =========================
 # Theme
