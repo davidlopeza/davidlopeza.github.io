@@ -1,6 +1,5 @@
 ---
 layout: home
-author_profile: true
 title: "David Fernando Lopez Alanis"
 ---
 
