@@ -5,6 +5,7 @@ title: "Academic Webpage"
 
 <div style="text-align: center; margin-top: 30px;">
   <img src="images/profile.jpg" alt="David Fernando Lopez" style="width:160px; border-radius:50%; border: 2px solid #ccc; margin-bottom: 15px;">
+  <h1>David Fernando Lopez Alanis</h1>
   <p><strong>Undergraduate student in Computer Technologies Engineering at Universidad de Monterrey (UDEM)</strong></p>
   <p>UX/UI designer passionate about human-centered design and front-end development.</p>
   <p>
