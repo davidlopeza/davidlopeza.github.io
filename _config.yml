@@ -13,16 +13,9 @@ locale: "en-US"
 # =========================
 author:
   name: "David Fernando Lopez Alanis"
-  avatar: "profile.jpg"
-  bio: "Undergraduate student in Computer Technologies Engineering at Universidad de Monterrey (UDEM). UX/UI designer passionate about human-centered design and front-end development."
   email: "david.lopeza@udem.edu"
-  links:
-    - label: "GitHub"
-      icon: "fab fa-github"
-      url: "https://github.com/davidlopeza"
-    - label: "LinkedIn"
-      icon: "fab fa-linkedin"
-      url: "https://www.linkedin.com/in/davidlopeza"
+  github: "https://github.com/davidlopeza"
+  linkedin: "https://www.linkedin.com/in/davidlopeza
 
 # =========================
 # Theme
